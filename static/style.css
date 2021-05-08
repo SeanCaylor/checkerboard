@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.board {
+    border: black 2px solid;
+    width: min-content;
+}
+
+.box1 {
+    height: 50px;
+    width: 50px;
+}
+
+.box2 {
+    height: 50px;
+    width: 50px;
+}
+
+.maincont {
+    display: flex;
+    justify-content: center;
+    padding: 5% 0px;
+}
+
+.row {
+    display: flex;
+}
